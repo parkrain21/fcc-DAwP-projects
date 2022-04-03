@@ -44,5 +44,4 @@ def calculate(list):
     'sum': [col_sum, row_sum, sum]
   }
 
-
   return calculations
